@@ -124,7 +124,7 @@ Dues (7)
 The Organization has the authority to levy dues upon its voting members.
 Members who have not paid current dues shall not be eligible to vote.
 
-Dues shall be set and collected anually. No penalty for late dues shall be
+Dues shall be set and collected annually. No penalty for late dues shall be
 assessed within the first 10 days of dues being set. Dues become unset after a
 year.
 
@@ -140,8 +140,8 @@ Unset Dues (7.2)
 Unset dues require no action on the part of members, and are automatically
 waived.
 
-Financial Accomodations (7.3)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Financial Accommodations (7.3)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Treasurer, with the support of at least two other officers, may choose to
 waive dues on a per member basis.
@@ -163,7 +163,7 @@ term.
 Voting Procedures (9)
 ---------------------
 
-All votes shall require a quorom of the voting members, and will be run by the
+All votes shall require a quorum of the voting members, and will be run by the
 secretary through rule of order, either vocally or by show of hands.
 
 Officers (III)
@@ -200,7 +200,7 @@ Nominations (3.1)
 ^^^^^^^^^^^^^^^^^
 
 Any voting member may nominate any voting member for any office.
-Self-nomination is permitted. Electees must explicitly accept nominations.
+Self-nomination is permitted. Candidates must explicitly accept nominations.
 Acceptance of nomination implies commitment to fulfill all duties of one term
 of office if elected.
 
@@ -279,7 +279,7 @@ Webmaster (7.5)
 ^^^^^^^^^^^^^^^
 
 The Webmaster will be responsible for the creation, design, hosting, and
-maintenence of the Organization's web presence, either directly or by
+maintenance of the Organization's web presence, either directly or by
 delegation.
 
 Standing Committees (IV)
@@ -315,7 +315,7 @@ to question the eligibility or qualifications of an officer or member of a
 standing committee. A vote of no confidence shall be conducted by the
 secretary, in a manner that allows for secret ballots. A vote of no confidence
 requires a majority of a quorum of voting members. In the case the vote is
-succesful, the officer will be immediately removed from office, and the office
+successful, the officer will be immediately removed from office, and the office
 will be considered vacant.
 
 Illegal or Discriminatory Termination (2)
