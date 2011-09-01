@@ -12,7 +12,7 @@ Participants:
  * Jacques Uber
  * Mike Cooper
 
-Mission Statement: 
+Mission Statement:
 ==================
 
 (we need one.)
@@ -83,7 +83,7 @@ No member's personal information shall be disclosed without their explicit conse
 Student Membership and Privileges (5)
 -------------------------------------
 
-Student Membership shall be awarded to any member who is an enrolled student of Oregon State University and has paid dues. 
+Student Membership shall be awarded to any member who is an enrolled student of Oregon State University and has paid dues.
 
 Student Membership Voting (5.1)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -185,7 +185,7 @@ Officer Vacancies (6)
 ---------------------
 
 In the case of a vacancy in a named officer position, the President may appoint a voting member to fill the position temporarily, until an emergency election may be held for the position.
-In  the case of a vacancy in the position of President, the Vice President shall assume the role of President until an emergency election is held, at which point he will resume his role as Vice President.
+In the case of a vacancy in the position of President, the Vice President shall assume the role of President until an emergency election is held, at which point he will resume his role as Vice President.
 
 Officer Duties (7)
 ------------------
