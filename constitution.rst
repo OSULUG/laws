@@ -74,7 +74,7 @@ basis of sexual preference, mental health, choice of operating system, or
 company affiliation.
 
 Membership (II)
-==============
+===============
 
 Eligibility for Membership (1)
 ------------------------------
@@ -283,7 +283,7 @@ maintenance of the Organization's web presence, either directly or by
 delegation.
 
 Standing Committees (IV)
-=======================
+========================
 
 Purpose (1)
 -----------
