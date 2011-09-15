@@ -2,7 +2,7 @@
 CONSTITUTION OF THE OREGON STATE UNIVERSITY LINUX USERS GROUP
 =============================================================
 
-Draft August 31th, 2011
+Proposed September 15, 2011
 
 Participants:
 
@@ -11,11 +11,6 @@ Participants:
  * Emily Dunham
  * Jacques Uber
  * Mike Cooper
-
-Mission Statement:
-==================
-
-(we need one.)
 
 Definitions (N)
 ===============
@@ -46,8 +41,7 @@ Name (1)
 --------
 
 The name of the Organization shall be "Oregon State University Linux Users
-Group." Acceptable official abbreviations shall be the initialism "OSULUG" and
-the acronym "LUG".
+Group."
 
 Purpose (2)
 -----------
@@ -111,12 +105,6 @@ Student Membership Voting (5.1)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Only student members shall be permitted to vote.
-
-Associate members (6)
----------------------
-
-Shall be faculty, staff, or community members interested in {Linux and Free
-and Open Source software?}. They shall not be eligible to hold office or vote.
 
 Dues (7)
 --------
@@ -337,7 +325,7 @@ the University.
 
 The role of the advisor is to mentor, oversee, guide, and regulate
 Organization activity; to prevent the Organization from acting contrary to the
-sponsoring unit's goals, and to enable the Organization to more effectively
+sponsoring unit's goals; and to enable the Organization to more effectively
 represent the University.
 
 Meetings of the Organization (VII)
