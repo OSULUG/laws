@@ -301,10 +301,12 @@ Vote of No Confidence (1)
 A vote of no confidence may be called by any Student Member during any meeting
 to question the eligibility or qualifications of an officer or member of a
 standing committee. A vote of no confidence shall be conducted by the
-secretary, in a manner that allows for secret ballots. A vote of no confidence
-requires a majority of a quorum of voting members. In the case the vote is
-successful, the officer will be immediately removed from office, and the office
-will be considered vacant.
+secretary, in a manner that allows for secret ballots. If the officer
+conducting the vote of no confidence has a conflict of interest, then the
+highest ranking officer without a conflict of interest shall conduct the vote
+of no confidence. A vote of no confidence requires a majority of a quorum of
+voting members. In the case the vote is successful, the officer will be
+immediately removed from office, and the office will be considered vacant.
 
 Illegal or Discriminatory Termination (2)
 -----------------------------------------
