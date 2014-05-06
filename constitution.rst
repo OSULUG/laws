@@ -341,11 +341,10 @@ Constitutional Amendment (VIII)
 ===============================
 
 This constitution may be amended at any regular meeting by a majority vote of
-a quorum of members and a unanimous assent of all officers. Amendments must be
-submitted in writing, must be read in full to the assembled constituency
+a quorum of members and unanimous assent of a quorum officers. Amendments must
+be submitted in writing, must be read in full to the assembled constituency
 during the meeting, must be in patch form, and must cleanly apply to the most
-recent copy of this constitution. The University must approve constitutional
-amendments prior to ratification.
+recent copy of this constitution.
 
 Parliamentary Procedure (IX)
 ============================
