@@ -255,7 +255,8 @@ Secretary (7.3)
 ^^^^^^^^^^^^^^^
 
 The Secretary will be responsible for keeping order during meetings, recording
-minutes of meetings, and running elections.
+minutes of meetings, keeping the confidential member list, and running
+elections.
 
 Treasurer (7.4)
 ^^^^^^^^^^^^^^^
