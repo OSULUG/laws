@@ -231,7 +231,7 @@ election may be held for the position.
 
 In the case of a vacancy in the position of President, the Vice President
 shall assume the role of President until an emergency election is held, at
-which point he will resume his role as Vice President.
+which point they will resume the role of Vice President.
 
 Officer Duties (7)
 ------------------
@@ -248,7 +248,7 @@ Vice President (7.2)
 ^^^^^^^^^^^^^^^^^^^^
 
 The Vice President will be responsible for assisting the President in
-completing his duties, and being prepared to assume the powers and
+completing their duties, and being prepared to assume the powers and
 responsibilities of the President in case of absence.
 
 Secretary (7.3)
