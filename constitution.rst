@@ -161,8 +161,8 @@ Officer Titles (1)
 ------------------
 
 The named officers of the association shall be the President, Vice-President,
-Secretary, Treasurer, and Webmaster. These officers shall have enumerated
-duties, as prescribed by the constitution and bylaws.
+Secretary, Treasurer, Public Relations Officer, and Webmaster. These officers 
+shall have enumerated duties, as prescribed by the constitution and bylaws.
 
 For purposes of officer ranking, the list of officers shall be considered to
 be in descending sorted order.
@@ -175,10 +175,11 @@ Officers must be Student Members.
 Officer Election (3)
 --------------------
 
-Officers shall be nominated during a 30 day period of time, to be chosen by
-the current officers, during Fall, Winter, or Spring term of each year. At the
-end of the nomination period, a ballot shall be held, and the candidates
-receiving the most votes shall be named to their respective offices.
+Officers except Webmaster shall be nominated during a 30 day period of time, 
+to be chosen by the current officers, during Fall, Winter, or Spring term of 
+each year. At the end of the nomination period, a ballot shall be held, and 
+the candidates receiving the most votes shall be named to their respective 
+offices.
 
 The nomination period, and the date of the ballot shall be publicly announced
 at meetings and on the Organization's mailing list. The nomination period
@@ -214,6 +215,14 @@ Members shall have the privilege of secret ballots.
 
 Ballots shall be conducted by the secretary, in a manner that allows for
 secret ballots.
+
+Officer Appointment (3.5)
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Some offices, such as Webmaster, have skills-based duties and shall thus be
+appointed by the executive committee rather than elected by the club. The
+appointee must be a voting member of the club and must accept their
+appointment. 
 
 Officer Term Length (5)
 -----------------------
@@ -264,12 +273,21 @@ Treasurer (7.4)
 The Treasurer will be responsible for keeping track of and signing off on all
 incoming and outgoing funds for the organization.
 
-Webmaster (7.5)
+Public Relations (7.5)
+^^^^^^^^^^^^^^^^^^^^^^
+
+The Public Relations officer will be responsible for communicating the club's
+identity and purpose to potential members and the community, collaborating
+with club members to create promotional materials, and maintaining the
+organization's professional image on social media.
+
+Webmaster (7.6)
 ^^^^^^^^^^^^^^^
 
 The Webmaster will be responsible for the creation, design, hosting, and
-maintenance of the Organization's web presence, either directly or by
-delegation.
+maintenance of the Organization's web presence. The office of Webmaster shall
+be appointed to a qualified and interested club member during the week
+following the election of elected offices.
 
 Standing Committees (IV)
 ========================
