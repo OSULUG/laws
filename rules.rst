@@ -13,7 +13,7 @@ section below.
 
 Rules
 -----
-- There should be a maximum of one bot in the irc channel (#osu-lug,
+1. There should be a maximum of one bot in the irc channel (#osu-lug,
   irc.freenode.net) at any time. 
 
 Contributing
@@ -35,8 +35,12 @@ be done by an officer of LUG.
 
 Any comment for or against the change in the comments of the pull request must
 include a reason for the support or non-support. Any -1 comments should either
-be fixed or addressed with a WONTFIX response. All comments must include the
-GitHub user's irc handle in #osu-lug.
+be fixed by the individual making the pull request or addressed by the
+individual making the pull request with a WONTFIX response and reason. It is
+the responsibility of the voting population to give feedback for improvement if
+a rule proposition; active participation is necessary for this system to work.
+All comments must include the GitHub user's irc handle in #osu-lug if different
+from their github handle.
 
 Any part of this document can be changed with the above process, including the
 above process, however alterations to the above process must pass by the
