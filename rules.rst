@@ -7,7 +7,7 @@ This is a set of rules for the Oregon State University Linux Users Group. These
 are not set in stone and are in fact meant to be dynamic; adapting to the needs
 of the community as they change. These rules are seperate from our constitution
 (which is also in this repository) but ought to be enforced by the OSU Linux
-Users Groupcommunity.
+Users Group community.
 
 For information on contributing to the set of rules see the `Contributing`
 section below.
@@ -16,7 +16,7 @@ Rules
 -----
 #. There should be a maximum of one bot in the irc channel (#osu-lug,
    irc.freenode.net) at any time.
-#. Any malicious or (i.e., 'black hat') material shared in the official
+#. Any malicious (i.e., 'black hat') material shared in the official
    OSU LUG IRC Channels should be presented in an academic or educational
    context. We do not encourage the use of malicious exploits under any
    circumstances.
