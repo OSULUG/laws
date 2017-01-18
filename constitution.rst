@@ -54,9 +54,9 @@ Non-Discrimination Policy (3)
 
 As required by Oregon State University, in accordance with the
 Non-Discrimination Policy issued by the University, membership shall not be
-denied to, nor abridged from, any student on the basis of race, color,
-national origin, religion, sex, sexual orientation, age, marital status,
-disability, disabled veteran, or Vietnam era veteran status.
+denied to, nor abridged from, any student on the basis of age, color,
+disability, gender identity or expression, genetic information, marital status,
+national origin, race, religion, sex, sexual orientation, or veteran status.
 
 Changes made to the University Non-Discrimination Policy which augment the
 protections afforded to members in this section, shall extend those
