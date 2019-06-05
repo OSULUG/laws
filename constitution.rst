@@ -401,4 +401,11 @@ constitution are considered binding and applicable to the Organization and its
 members, except in any case where any clause of a bylaw conflicts with this
 constitution.
 
+* There should be a maximum of one bot in the irc channel (#osu-lug,
+  irc.freenode.net) at any time.
+* Any malicious (i.e., 'black hat') material shared in the official
+  OSU LUG IRC Channels should be presented in an academic or educational
+  context. We do not encourage the use of malicious exploits under any
+  circumstances.
+
 .. vim: set syntax=rest:textwidth=78:wrapmargin=2 :
