@@ -360,8 +360,10 @@ Meetings of the Organization (VII)
 ==================================
 
 Official meetings shall be held once per week, unless no officers are
-available to run the meeting, or quorum cannot be met. Meetings cannot be held
-during dead week or finals week.
+available to run the meeting, or quorum cannot be met. Special meetings for 
+events or emergencies can be called outside of the official meetings. Special 
+meetings may be called by any officer. There will be a minimum number of 5 
+meetings per term. This minimum does not apply during summer term or breaks.
 
 Constitutional Amendment (VIII)
 ===============================
