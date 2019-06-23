@@ -247,7 +247,8 @@ which point they will resume the role of Vice President.
 Officer Meetings (7)
 ------------------
 
-Officers will meet a minimum of once a month. These meetings will be open to all club members.
+Officers will meet a minimum of once a month. This minimum does not apply during 
+summer term or breaks. These meetings will be open to all club members.
 
 Officer Duties (8)
 ------------------
