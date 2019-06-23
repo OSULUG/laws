@@ -176,7 +176,7 @@ Officer Election (3)
 --------------------
 
 Officers except Webmaster shall be nominated during a 30 day period of time, 
-to be chosen by the current officers, during Fall, Winter, or Spring term of 
+to be chosen by the current officers, during Spring term of 
 each year. At the end of the nomination period, a ballot shall be held, and 
 the candidates receiving the most votes shall be named to their respective 
 offices.
@@ -242,38 +242,43 @@ In the case of a vacancy in the position of President, the Vice President
 shall assume the role of President until an emergency election is held, at
 which point they will resume the role of Vice President.
 
-Officer Duties (7)
+Officer Meetings (7)
+------------------
+
+Officers will meet a minimum of once a month. These meetings will be open to all club members.
+
+Officer Duties (8)
 ------------------
 
 Each officer shall have duties as described below.
 
-President (7.1)
+President (8.1)
 ^^^^^^^^^^^^^^^
 
 The President will be responsible for the daily operations of the
 Organization, and any official duties not otherwise assigned.
 
-Vice President (7.2)
+Vice President (8.2)
 ^^^^^^^^^^^^^^^^^^^^
 
 The Vice President will be responsible for assisting the President in
 completing their duties, and being prepared to assume the powers and
 responsibilities of the President in case of absence.
 
-Secretary (7.3)
+Secretary (8.3)
 ^^^^^^^^^^^^^^^
 
 The Secretary will be responsible for keeping order during meetings, recording
 minutes of meetings, keeping the confidential member list, and running
 elections.
 
-Treasurer (7.4)
+Treasurer (8.4)
 ^^^^^^^^^^^^^^^
 
 The Treasurer will be responsible for keeping track of and signing off on all
 incoming and outgoing funds for the organization.
 
-Public Relations (7.5)
+Public Relations (8.5)
 ^^^^^^^^^^^^^^^^^^^^^^
 
 The Public Relations officer will be responsible for communicating the club's
@@ -281,7 +286,7 @@ identity and purpose to potential members and the community, collaborating
 with club members to create promotional materials, and maintaining the
 organization's professional image on social media.
 
-Webmaster (7.6)
+Webmaster (8.6)
 ^^^^^^^^^^^^^^^
 
 The Webmaster will be responsible for the creation, design, hosting, and
