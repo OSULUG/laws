@@ -167,6 +167,9 @@ shall have enumerated duties, as prescribed by the constitution and bylaws.
 For purposes of officer ranking, the list of officers shall be considered to
 be in descending sorted order.
 
+The officer positions of President, Vice-President, Secretary, Treasurer, and 
+Public Relations Officer are required. All other positions are optional. 
+
 Officer Eligibility (2)
 -----------------------
 
@@ -175,8 +178,7 @@ Officers must be Student Members.
 Officer Election (3)
 --------------------
 
-Officers except Webmaster shall be nominated during a 30 day period of time, 
-to be chosen by the current officers, during Spring term of 
+Required officer positions will be nominated by week 7 and elected by week 8 of spring term 
 each year. At the end of the nomination period, a ballot shall be held, and 
 the candidates receiving the most votes shall be named to their respective 
 offices.
