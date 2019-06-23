@@ -173,7 +173,7 @@ Public Relations Officer are required. All other positions are optional.
 Officer Eligibility (2)
 -----------------------
 
-Officers must be Student Members.
+Officers must be Student Members. One person may hold multiple officer positions.
 
 Officer Election (3)
 --------------------
