@@ -167,16 +167,18 @@ shall have enumerated duties, as prescribed by the constitution and bylaws.
 For purposes of officer ranking, the list of officers shall be considered to
 be in descending sorted order.
 
+The officer positions of President, Vice-President, Secretary, Treasurer, and 
+Public Relations Officer are required. All other positions are optional. 
+
 Officer Eligibility (2)
 -----------------------
 
-Officers must be Student Members.
+Officers must be Student Members. One person may hold multiple officer positions.
 
 Officer Election (3)
 --------------------
 
-Officers except Webmaster shall be nominated during a 30 day period of time, 
-to be chosen by the current officers, during Spring term of 
+Required officer positions will be nominated by week 7 and elected by week 8 of spring term 
 each year. At the end of the nomination period, a ballot shall be held, and 
 the candidates receiving the most votes shall be named to their respective 
 offices.
@@ -245,7 +247,8 @@ which point they will resume the role of Vice President.
 Officer Meetings (7)
 ------------------
 
-Officers will meet a minimum of once a month. These meetings will be open to all club members.
+Officers will meet a minimum of once a month. This minimum does not apply during 
+summer term or breaks. These meetings will be open to all club members.
 
 Officer Duties (8)
 ------------------
@@ -358,8 +361,10 @@ Meetings of the Organization (VII)
 ==================================
 
 Official meetings shall be held once per week, unless no officers are
-available to run the meeting, or quorum cannot be met. Meetings cannot be held
-during dead week or finals week.
+available to run the meeting, or quorum cannot be met. Special meetings for 
+events or emergencies can be called outside of the official meetings. Special 
+meetings may be called by any officer. There will be a minimum number of 5 
+meetings per term. This minimum does not apply during summer term or breaks.
 
 Constitutional Amendment (VIII)
 ===============================
