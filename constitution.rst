@@ -75,13 +75,22 @@ Eligibility for Membership (1)
 
 Any person may become a member. Membership is established by providing contact
 information to an officer, being endorsed by that officer, and being added to
-a confidential list of members.
+a confidential list of members. This list shall be kept and maintained by the
+Secretary.
+
+Membership for an individual shall be reevaluated at the end of each academic
+term, defining whether or not that person shall be considered a member in the
+following term. If an person considered to not be a member meets requirements
+for membership partway through an academic term, that person may receive
+membership status upon approval by an officer.
 
 Tiers of Membership (2)
 -----------------------
 
 Membership shall be segregated by proximity of relationship to the University,
-as required by the University.
+as required by the University. There shall be either Members who are associated
+with the University, or Associate Members who are not associated with the
+University.
 
 Right of Association (3)
 ------------------------
@@ -99,12 +108,22 @@ Student Membership and Privileges (5)
 -------------------------------------
 
 Student Membership shall be awarded to any member who is an enrolled student
-of Oregon State University and has paid dues.
+of Oregon State University, has paid any required dues, and has participated
+in a minimum of two events or meetings every term.
 
 Student Membership Voting (5.1)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Only student members shall be permitted to vote.
+
+
+Associate Membership and Privledges (6)
+---------------------------------------
+
+Associate Membership shall be awarded to any person unaffiliated with the University
+who participates in a minimum of two events or meetings each academic term. An
+Associate Member is not eligible to vote in elections, participate in activities
+specified as exclusive to Student or University Members, or hold an officer position.
 
 Dues (7)
 --------
@@ -112,9 +131,9 @@ Dues (7)
 The Organization has the authority to levy dues upon its voting members.
 Members who have not paid current dues shall not be eligible to vote.
 
-Dues shall be set and collected annually. No penalty for late dues shall be
-assessed within the first 10 days of dues being set. Dues become unset after a
-year.
+Dues shall be set and collected annually, which can be called to vote in the first
+3 weeks of each academic term. No penalty for late dues shall be assessed within the
+first 10 days of dues being set. Dues become unset after a year.
 
 Setting Dues (7.1)
 ^^^^^^^^^^^^^^^^^^
