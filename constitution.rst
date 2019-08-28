@@ -319,21 +319,38 @@ Permanence (3)
 No Standing Committee shall be permanent. All Standing Committees must disband
 after a time to be decided at the formation of the committee.
 
-Termination (V)
-===============
+Discipline and Termination (V)
+=============================
 
-Vote of No Confidence (1)
+General Discipline (1)
+----------------------
+
+If an officer or a member has failed to carry out their responsibilites has violated
+this constitution in the view of other officers or members, general discipline may be applied. A vote
+for general discipline may be called for by two student members or one officer. If the vote
+has been initiated, a quorum of officers must also agree on the discipline for it to
+move forward. The terms of the discipline may be defined by all parties participating in the
+discussion and must be fully accepted by defending member. If an agreement is not reached, the
+issue may be elevated to a vote of no confidence if desired. Note that the Vote of No Confidence
+must be called to a vote by its own set of rules, as outlined below.
+
+Vote of No Confidence (2)
 -------------------------
 
-A vote of no confidence may be called by any Student Member during any meeting
-to question the eligibility or qualifications of an officer or member of a
-standing committee. A vote of no confidence shall be conducted by the
-secretary, in a manner that allows for secret ballots. If the officer
-conducting the vote of no confidence has a conflict of interest, then the
-highest ranking officer without a conflict of interest shall conduct the vote
-of no confidence. A vote of no confidence requires a majority of a quorum of
-voting members. In the case the vote is successful, the officer will be
-immediately removed from office, and the office will be considered vacant.
+A vote of no confidence may be called by any Student Member during any meeting, which
+must be seconded by another present member to question the eligibility or qualifications 
+of an officer or member of a standing committee. If a vote is to take place, then the member
+calling for the vote must provide written or verbal reasoning within 24 hours. In following, the
+officer in question has one week to provide either written or verbal defense of their
+title if they so choose. Once either a week has passed or official defense has been
+provided, a vote of no confidence shall be conducted by the secretary. If the officer
+conducting the vote of no confidence has a conflict of interest, then the highest ranking
+officer without a conflict of interest shall conduct the vote of no confidence, in a manner
+that allows for secret ballots. Voting shall take place for a minimum of one week, with
+results to be announced at the next meeting following the end of the voting period. A vote 
+of no confidence requires a majority of a quorum of voting members. In the case the vote is
+successful, the officer will be immediately removed from office, and the office will be 
+considered vacant.
 
 Illegal or Discriminatory Termination (2)
 -----------------------------------------
