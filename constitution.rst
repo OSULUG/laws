@@ -352,7 +352,7 @@ of no confidence requires a majority of a quorum of voting members. In the case 
 successful, the officer will be immediately removed from office, and the office will be 
 considered vacant.
 
-Illegal or Discriminatory Termination (2)
+Illegal or Discriminatory Termination (3)
 -----------------------------------------
 
 If a former member, representative, or officer claims that their termination
