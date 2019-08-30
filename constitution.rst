@@ -253,49 +253,79 @@ summer term or breaks. These meetings will be open to all club members.
 Officer Duties (8)
 ------------------
 
-Each officer shall have duties as described below.
+Each officer shall have duties as described below. The club must have a President, 
+Vice President, Secretary, and Treasurer appointed at all times. All other officer 
+positions are recomended but optional. 
 
-President (8.1)
-^^^^^^^^^^^^^^^
+President (8.1) 
+^^^^^^^^^^^^^^^ 
 
-The President will be responsible for the daily operations of the
-Organization, and any official duties not otherwise assigned.
+The President will be responsible for the daily operations of the  
+Organization, and any official duties not otherwise assigned. The President  
+will have complete responsibility to see that all required tasks are completed 
+or are delegated. They will ensure that the minimum number of 
+meetings for the club (see: Meetings of the Organization (VII)) are scheduled 
+and planned. 
 
-Vice President (8.2)
-^^^^^^^^^^^^^^^^^^^^
+Vice President (8.2) 
+^^^^^^^^^^^^^^^^^^^^ 
 
-The Vice President will be responsible for assisting the President in
-completing their duties, and being prepared to assume the powers and
-responsibilities of the President in case of absence.
+The Vice President will be responsible for assisting the President in 
+completing their duties, and being prepared to assume the powers and 
+responsibilities of the President in case of absence. They will also verify 
+that all actions taken by the president are in compliance with this 
+constitution, and assume the duty of any other officer who is absent, 
+including the ability to delegate the responsibilities of the officer in 
+which they are filling for. 
 
-Secretary (8.3)
-^^^^^^^^^^^^^^^
+Secretary (8.3) 
+^^^^^^^^^^^^^^^ 
 
-The Secretary will be responsible for keeping order during meetings, recording
-minutes of meetings, keeping the confidential member list, and running
-elections.
+The Secretary will be responsible for keeping order during meetings, recording 
+minutes of meetings, keeping the confidential member list, and running 
+elections. The Secretary will have the highest level of control over all written or 
+digital documents related to the club, and may delegate partial levels of maintenance 
+to others. The secretary must ensure all documents related to the club remain 
+accessible to the public either upon request or through a digital page. 
 
-Treasurer (8.4)
-^^^^^^^^^^^^^^^
+Treasurer (8.4) 
+^^^^^^^^^^^^^^^ 
 
-The Treasurer will be responsible for keeping track of and signing off on all
-incoming and outgoing funds for the organization.
+The Treasurer will be responsible for keeping track of and signing off on all 
+incoming and outgoing funds for the organization. The treasurer has final 
+approval power over any spending of the club, and must directly approve of any 
+related action before it can continue forward. The treasurer shall be the only one 
+to directly touch any funds of the club. They must provide a report of all yearly 
+spending and current balances at the end of every term and upon request from two or 
+more officers. Upon receiving any type of physical currency, the treasurer has 7 day 
+to deposit the associated amount into the club funds and provide the receipt to the 
+secretary. 
 
-Public Relations (8.5)
-^^^^^^^^^^^^^^^^^^^^^^
+Public Relations (8.5) 
+^^^^^^^^^^^^^^^^^^^^^^ 
 
-The Public Relations officer will be responsible for communicating the club's
-identity and purpose to potential members and the community, collaborating
-with club members to create promotional materials, and maintaining the
-organization's professional image on social media.
+The Public Relations officer will be responsible for communicating the club's 
+identity and purpose to potential members and the community, collaborating 
+with club members to create promotional materials, and maintaining the 
+organization's professional image on social media. 
 
-Webmaster (8.6)
-^^^^^^^^^^^^^^^
+Webmaster (8.6) 
+^^^^^^^^^^^^^^^ 
 
-The Webmaster will be responsible for the creation, design, hosting, and
-maintenance of the Organization's web presence. The office of Webmaster shall
-be appointed to a qualified and interested club member during the week
-following the election of elected offices.
+The Webmaster will be responsible for the creation, design, hosting, and 
+maintenance of the Organization's web presence. The office of Webmaster shall 
+be appointed to a qualified and interested club member during the week 
+following the election of elected offices. The webmaster must provide public 
+access to all club-related digital documents provided by the secretary. 
+
+Event Planner (8.7) 
+^^^^^^^^^^^^^^^^^^ 
+
+The Event Planner will be responsible for the planning and scheduling of club-related 
+events. They will also be in charge of finding volunteers to run the event and communicating 
+with the treasurer to design a budget for the club. They will reserve any associated space 
+for the event and interact with OSU faculty to ensure that the proposed event is allowed 
+within the scope of the University.  
 
 Standing Committees (IV)
 ========================
