@@ -2,7 +2,7 @@
 CONSTITUTION OF THE OREGON STATE UNIVERSITY LINUX USERS GROUP
 =============================================================
 
-Proposed September 15, 2011
+Original Proposed September 15, 2011
 
 Participants:
 
@@ -11,6 +11,16 @@ Participants:
  * Emily Dunham
  * Jacques Uber
  * Mike Cooper
+
+Last Amended September 2, 2019
+
+Participants:
+
+* Drew Ortega
+* Lindsey Kvarfordt
+* Jaeyln Litzinger
+* Arthur York
+* Kerry Vance
 
 Definitions (N)
 ===============
