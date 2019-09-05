@@ -190,14 +190,14 @@ Officer Titles (1)
 ------------------
 
 The named officers of the association shall be the President, Vice-President,
-Secretary, Treasurer, Public Relations Officer, and Webmaster. These officers 
+Secretary, Treasurer, Public Relations Officer, Webmaster, and Event Planner. These officers 
 shall have enumerated duties, as prescribed by the constitution and bylaws.
 
 For purposes of officer ranking, the list of officers shall be considered to
 be in descending sorted order.
 
-The officer positions of President, Vice-President, Secretary, Treasurer, and 
-Public Relations Officer are required. All other positions are optional. 
+The officer positions of President, Secretary, and Treasurer are required positions 
+for the functioning of the club. All other positions are optional but reccomended.
 
 Officer Eligibility (2)
 -----------------------
